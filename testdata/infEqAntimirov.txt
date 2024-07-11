@@ -1,0 +1,105 @@
+2 1000 100
+(a*b)*aa*
+(a + b)*a
+(a*b)*aaa*
+(a + b)*a(a + b)
+(a*b)*aaaa*
+(a + b)*a(a + b)(a + b)
+(a*b)*aaaaa*
+(a + b)*a(a + b)(a + b)(a + b)
+(a*b)*aaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+;
+(a*b)*aaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+(a*b)*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*
+(a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)(a + b)
+;

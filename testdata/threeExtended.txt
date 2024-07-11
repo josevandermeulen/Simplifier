@@ -1,0 +1,7 @@
+// A difference from Conway 
+(((xy* + yx)* \ (y*x + xy)*) + !1)
+// An example from Antimirov
+(((a*b)* & (ab*)*) \ (ab)*)
+!0
+;
+

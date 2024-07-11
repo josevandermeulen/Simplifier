@@ -1,0 +1,16 @@
+// One of my favourite examples
+c* + c*a(c*a + b)*c* 
+// An example from Han & Wood
+(aa + b)a*c(ba*c)*(ba*d + d) + (aa + b)a*d
+;
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+// First pair 
+b*(ab*)*
+((a + b)a*)* + (a + b(1 + b)b)aa(1 + a)
+// Second pair
+a*(aab + bb*a + bb)*
+((a + ba)a*)* + (a + ba(1 + ba)ba)aa(1 + a)
+;

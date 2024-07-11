@@ -1,0 +1,70 @@
+// An example from Brzozowski
+((a + b)*bbb(a + b)* & !((a + b)*ab + (bb)*))
+
+// A difference from Conway 
+((xy* + yx)* \ (y*x + xy)*)
+
+// Conway's result (can be simplified)
+(yx)*xx*y(yy*x + xx*y)*yy*
+
+// The same example from Brzozowski (without !)
+((a + b)*bbb(a + b)* & ((a + b)* \ (a + b)*ab + (bb)*))
+
+// An intersection from Conway
+((xy* + yx)* & (y*x + xy)*)
+
+// A symetric difference to show equivalence
+(((xy* + yx)* & (y*x + xy)*) ^ (yx)*(x + xy(yy*x)*)*)
+
+// Another symetric difference
+((yx + x(1 + y(y*yx)*))*xy(y(1 + x))*y ^ (yx)*xx*y(yy*x + xx*y)*yy*)
+
+// An example from Antimirov
+((aaa)* & (aa)*)
+
+// Another example from Antimirov
+((a + bb)* & (aa + b)*)
+
+// Another example from Antimirov
+((a*b)* & (ab*)*)
+
+// Another example from Antimirov
+(((a*b)* & (ab*)*) \ (ab)*)
+
+// Equals ?
+((a*ba*)* ^ (a*b + ba*)*)*
+
+// An example from Antimirov
+( (a*b)*aaaaaaa* \ (a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b))
+
+// The opposite
+( (a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)  \  (a*b)*aaaaaaa*)
+
+// Let's try the symmetrical difference
+( (a + b)*a(a + b)(a + b)(a + b)(a + b)(a + b)  ^  (a*b)*aaaaaaa*)
+
+// A difference with five letters
+((a + b + c + e)* \ (a + d + b + c )*)
+
+// Some complements (with five letters)
+!0
+!1
+!a
+!b
+!((a + b)*ab + (bb)*)
+!((a*b)*aaaa*)
+
+CM 0
+
+// The same (with zero letters)
+!0
+!1
+!a
+!b
+!((a + b)*ab + (bb)*)
+!((a*b)*aaaa*)
+
+;
+
+
+

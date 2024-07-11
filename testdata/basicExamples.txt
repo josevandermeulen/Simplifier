@@ -1,0 +1,58 @@
+
+// First example
+
+((a + b)a*)* + (a + b(1 + b)b)aa(1 + a)
+
+// Second example
+((a + ba)a*)* + (a + ba(1 + ba)ba)aa(1 + a)
+
+// Conway
+a*(aab + bb*a + bb)*
+
+// One of my favourite examples
+c* + c*a(c*a + b)*c* 
+
+// Well-known example from Conway
+(ab*a + ba*b)*(1 + ab* + ba*)
+
+// The same with 3 letters (also in Antimorov)
+(a(b + c)*a + b(a + c)*b + c(a + b)*c)*(1 + a(b + c)* + b(a + c)* + c(a + b)*) 
+
+// An example from I don't remember where.
+1 + (ba)*ba(1 + a(a + b)*) + (ab)*ab(1 + b(a + b)*)
+
+// A Kleene's axiom from Conway (also in Antimirov)
+(aaaaaa)*(1 + a + aa + aaa + aaaa + aaaaa)
+
+// Difficult to simplify
+(a(bb)*a + ab + ba + bb)*
+
+// Difficult to simplify
+((1 + ((a + b)*bbb* + (b + a*)a)(1 + (b* + b(a + a*ab(a*b)*)(a + b)*b)(a + b)a*))b(1 + (1 + b)a)(b* + a*))*
+
+// The example from Han & Wood
+(aa + b)a*c(ba*c)*(ba*d + d) + (aa + b)a*d
+
+// Minimize this one
+(1 + b + a + b*)(((b + a)a*)* + (a + b(1 + b)b)aa(1 + a))
+
+// Minimize this one
+((a + ba*b + c(ab)*c*) + (a*b*c*) + (abc + a + bc))*
+
+// Minimize this one
+a(a + b)* + 1 + aa* + c*
+
+// Minimize this one
+(a + ba*b* + c(ab)*c* + d(a + ba*b + c(ab)*c*)*d* + e((a + ba*b* + c(ab)*c*)d)*e*)*
+;
+
+
+
+
+
+
+
+
+
+
+

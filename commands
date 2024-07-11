@@ -1,0 +1,10 @@
+java -cp BLCTool.jar Demo <testdata/twoExprs.txt
+java -cp BLCTool.jar Demo <testdata/twoExprs.txt SOI 2 1000000
+java -cp BLCTool.jar Demo <testdata/twoExprs.txt S 4 10000
+java -cp BLCTool.jar Demo <testdata/someExprs.txt I 3 10000
+java -cp BLCTool.jar Demo <testdata/someOthers.txt E 10000
+java -cp BLCTool.jar Demo <testdata/conway.txt DFA 1000
+java -cp BLCTool.jar Demo <testdata/threeExtended.txt SOI 3 1000
+java -cp BLCTool.jar Demo '>' 0 1000 ;
+java -cp BLCTool.jar syntax.GenRegExpr 3 10 5 ;
+exit 0 ;                                             

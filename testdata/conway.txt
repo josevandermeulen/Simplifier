@@ -1,0 +1,4 @@
+// Conway's example
+a*(aab + bb*a + bb)*
+;
+
